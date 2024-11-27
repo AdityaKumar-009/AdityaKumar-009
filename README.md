@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **work.kumar.aditya@gmail.com**
 
-- 📄 Know about my experiences [Open Resume](https://drive.google.com/file/d/1SU4nEUOtebijtL-VLvW8PGfsNS3yqFlu/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1SU4nEUOtebijtL-VLvW8PGfsNS3yqFlu/view?usp=sharing)
 
 - ⚡ Fun fact **Thinking to explore Rust for memory safe programming.**
 
