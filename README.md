@@ -1,5 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-<h3 align="center">As a Computer Science graduate, I'm passionate about using programming skills to solve real-world problems through software. I'm eager to apply my expertise in software development to create practical and innovative solutions. Seeking a role where I can contribute to a team, learn, and make a meaningful impact by developing software.</h3>
+As a Computer Science graduate, I'm passionate about using programming skills to solve real-world problems through software. I'm eager to apply my expertise in software development to create practical and innovative solutions. Seeking a role where I can contribute to a team, learn, and make a meaningful impact by developing software.
+
+### My Personal Favourite Projects Throughout University
+- Semester 5: `Samsung PRISM` | Some details are in [`Resume`](https://drive.google.com/file/d/1nL2O6VRtPt1TgvNsy1cYPlGIUkvP73kM/view?usp=sharing)
+- Semester 7 (current): [`Gadi Alert`](https://github.com/AdityaKumar-009/_Gadi-Alert)
+
+### Other Cool Projects
+- Semester 1: [`U-Saver`](https://github.com/AdityaKumar-009/U-Saver)
+- Semester 2: A car rental service website (Just exploring web technologies) `Car Rental B@y`
+- Semester 3: [`Game X Mania`](https://github.com/AdityaKumar-009/GameXMania)
+- Semester 4: [`CryptoX`](https://github.com/AdityaKumar-009/Cryptox)
+- Semester 6: [`2D LAN Game`](https://github.com/AdityaKumar-009/2D-LAN-GAME)
+---
 
 - 🔭 I’m currently working on [Gadi Alert](https://github.com/AdityaKumar-009/Gadi-Alert)
 
@@ -7,7 +19,7 @@
 
 - 📫 How to reach me **work.kumar.aditya@gmail.com**
 
-- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1SU4nEUOtebijtL-VLvW8PGfsNS3yqFlu/view?usp=sharing)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1nL2O6VRtPt1TgvNsy1cYPlGIUkvP73kM/view?usp=sharing)
 
 - ⚡ Fun fact **Thinking to explore Rust for memory safe programming.**
 
