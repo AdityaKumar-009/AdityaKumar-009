@@ -2,15 +2,15 @@
 As a Computer Science graduate, I'm passionate about using programming skills to solve real-world problems through software. I'm eager to apply my expertise in software development to create practical and innovative solutions. Seeking a role where I can contribute to a team, learn, and make a meaningful impact by developing software.
 
 ### My Personal Favourite Projects Throughout University
-- Semester 5: `SAMSUNG PRISM` [`🌏`](https://www.samsungprism.com/) | Some details are in my [`Resume📜`](https://drive.google.com/file/d/1nL2O6VRtPt1TgvNsy1cYPlGIUkvP73kM/view?usp=sharing) | Similar UI [`Template🦴`](https://github.com/AdityaKumar-009/Dashboard-UI-Template)
-- Semester 7 (current): [`Gadi Alert🔔`](https://github.com/AdityaKumar-009/_Gadi-Alert)
+- Semester 5: `SAMSUNG PRISM` [`🌏`](https://www.samsungprism.com/) | Some details are in my [`Resume📜`](https://drive.google.com/file/d/1nL2O6VRtPt1TgvNsy1cYPlGIUkvP73kM/view?usp=sharing) | Similar UI [`Template 🦴`](https://github.com/AdityaKumar-009/Dashboard-UI-Template)
+- Semester 7 (current): [`Gadi Alert 🔔`](https://github.com/AdityaKumar-009/_Gadi-Alert)
 
 ### Other Cool Projects
-- Semester 1: [`U-Saver⬇️`](https://github.com/AdityaKumar-009/U-Saver)
-- Semester 2: A car rental service website (Just exploring web technologies) `Car Rental B@y🚗`
-- Semester 3: [`Game X Mania🎮`](https://github.com/AdityaKumar-009/GameXMania)
-- Semester 4: [`CryptoX🪙`](https://github.com/AdityaKumar-009/Cryptox)
-- Semester 6: [`2D LAN Game🕹️`](https://github.com/AdityaKumar-009/2D-LAN-GAME)
+- Semester 1: [`U-Saver ⬇️`](https://github.com/AdityaKumar-009/U-Saver)
+- Semester 2: A car rental service website (Just exploring web technologies) `Car Rental B@y 🚗`
+- Semester 3: [`Game X Mania 🎮`](https://github.com/AdityaKumar-009/GameXMania)
+- Semester 4: [`CryptoX 🪙`](https://github.com/AdityaKumar-009/Cryptox)
+- Semester 6: [`2D LAN Game 🕹️`](https://github.com/AdityaKumar-009/2D-LAN-GAME)
 ---
 
 - 🔭 I’m currently working on [Gadi Alert](https://github.com/AdityaKumar-009/Gadi-Alert)
